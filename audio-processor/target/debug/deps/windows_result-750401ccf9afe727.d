@@ -1,0 +1,10 @@
+C:\Users\csuar\Desktop\audio-proj\audio-processor\target\debug\deps\libwindows_result-750401ccf9afe727.rmeta: C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src/lib.rs C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\bindings.rs C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\com.rs C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\strings.rs C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\error.rs C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\hresult.rs
+
+C:\Users\csuar\Desktop\audio-proj\audio-processor\target\debug\deps\windows_result-750401ccf9afe727.d: C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src/lib.rs C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\bindings.rs C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\com.rs C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\strings.rs C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\error.rs C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\hresult.rs
+
+C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src/lib.rs:
+C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\bindings.rs:
+C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\com.rs:
+C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\strings.rs:
+C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\error.rs:
+C:\Users\csuar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\hresult.rs:
